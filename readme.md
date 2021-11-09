@@ -1,4 +1,3 @@
-<style>.hello {opacity: .3;}</style>
 <div align="center" class="hello">
     <br>
 	<br>
