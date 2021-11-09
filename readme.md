@@ -65,7 +65,7 @@ Sleep timer is a utility that lives in your menu bar that can put your Mac to sl
 <br>
 
 ![](assets/screenshots/nightshift-dark.png)
-<p align="center">Quickly reduce the blue light (nighshift)</p>
+<p align="center">Quickly reduce the blue light (nightshift)</p>
 <br>
 <br>
 
