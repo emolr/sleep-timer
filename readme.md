@@ -31,7 +31,7 @@ Sleep timer is a utility that lives in your menu bar that can put your Mac to sl
 - Remembers your settings
 - Works with multiple displays and spaces simultaneously
 - Can automatically launch at login
-- Low performance impact - can run in the background at all times
+- Ultra low performance impact
 
 ## Screenshots
 
