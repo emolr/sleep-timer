@@ -7,7 +7,7 @@
 	</a>
 	<h1>Sleep timer</h1>
 	<p>
-		<b style="color: red;">Make your app fall asleep just like you 😴</b>
+		<b>Make your app fall asleep just like you 😴</b>
 	</p>
 	<br>
     <a href="https://sindresorhus.com/system-color-picker">
