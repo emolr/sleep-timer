@@ -1,4 +1,7 @@
 <div align="center">
+    <br>
+	<br>
+    <br>
 	<a href="https://sindresorhus.com/system-color-picker">
 		<img src="appicon.png" width="140" height="140">
 	</a>
