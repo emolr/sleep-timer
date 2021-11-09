@@ -1,6 +1,6 @@
 <div align="center">
 	<a href="https://sindresorhus.com/system-color-picker">
-		<img src="appicon.png" width="200" height="200">
+		<img src="appicon.png" width="140" height="140">
 	</a>
 	<h1>Sleep timer</h1>
 	<p>
