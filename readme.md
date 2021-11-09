@@ -38,9 +38,15 @@ Sleep timer is a utility that lives in your menu bar that can put your Mac to sl
 
 ## Screenshots
 
-![](https://github.com/sindresorhus/System-Color-Picker/raw/main/Stuff/screenshot1.jpg)
+![](assets/screenshots/dark.jpg)
 
-![](https://github.com/sindresorhus/System-Color-Picker/raw/main/Stuff/screenshot2.jpg)
+![](assets/screenshots/dark-open.jpg)
+
+![](assets/screenshots/dark-timer.jpg)
+
+![](assets/screenshots/dark-brightness.jpg)
+
+![](assets/screenshots/dark-nightshift.jpg)
 
 ## Frequently Asked Questions
 
