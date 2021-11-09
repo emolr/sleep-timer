@@ -21,7 +21,7 @@
 
 ## Description
 
-Sleep timer is a utility that lives in your menu bar that can put your Mac to sleep after a given time, help calm your eyes by lowering the brightness darker than darkest and reduce the blue light in your screen.
+Sleep timer is a utility that lives in your menu bar that can put your Mac to sleep after a given time, helps calm your eyes by lowering the brightness darker than darkest and reduce the blue light in your screen.
 
 ## Features
 
