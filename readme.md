@@ -29,7 +29,7 @@ Sleep timer is a utility that lives in your menu bar that can put your Mac to sl
 - Toggle the display adjustments on and off
 - Disable the display adjustments when your Mac wakes up
 - Remembers your settings
-- Works with multiple displays and spaces simultaniously
+- Works with multiple displays and spaces simultaneously
 - Can automatically launch at login
 - Low performance impact - can run in the background at all times
 
